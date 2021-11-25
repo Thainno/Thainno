@@ -1,7 +1,7 @@
 ## Olá, eu sou o Tháinno!
 
 - 🔭 Hoje trabalho como Técnico de informática;
-- 🎓 Cursando ensino superir em Engenharia de Software
+- 🎓 Cursando ensino superir em Engenharia de Software;
 - 🌱 Estudando JavaScript, HTML5 e CSS3;
 - 😄 ele/dele
 

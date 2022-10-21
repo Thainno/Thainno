@@ -23,9 +23,9 @@
 
 <div align="center">
   <a href="https://github.com/Thainno">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=Thainno&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thainno&layout=compact&langs_count=7&theme=highcontrast"/>
-  <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=thainno&theme=highcontrast&hide_border=white"/>  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Thainno&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thainno&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=thainno&theme=highcontrast&hide_border=white"/>  
 </div>
   
 ##
@@ -33,7 +33,7 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="425" style="border: 0";>
-      <h3>🌱 Learning :</h3>
+      <h2>🌱 Learning :</h2>
       <img align="center" alt="Thainno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="Thainno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="Thainno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

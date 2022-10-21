@@ -25,26 +25,26 @@
   <a href="https://github.com/Thainno">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Thainno&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thainno&layout=compact&langs_count=7&theme=highcontrast"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=thainno&theme=highcontrast&hide_border=false"/>  
 </div>
   
 ##
   
  <div>
-   <h3>🌱 Learning :</h3>
+   <h3>Tools and technologies:</h3>
    <img align="center" alt="Thainno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Thainno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Thainno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Thainno-GIT" height="30" width="40" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667">
+   <img align="center" alt="Thainno-GIT" height="30" width="40" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667">   
+  <img align="right" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=thainno&theme=highcontrast&hide_border=false"/>  
  </div>
   
  ## 
   
 <div>    
-   <h3>💬 Contacte me:</h3>
-   <img align="center" alt="Thainno-instagram" height="30" width="40" src="https://www.svgrepo.com/show/111199/instagram.svg" href="https://www.instagram.com/thainno.santana/">
-   <img align="center" alt="Thainno-linkedin" height="30" width="40" src="https://www.svgrepo.com/show/157006/linkedin.svg" href="https://www.linkedin.com/in/thainno-santana/">
-   <img align="center" alt="Thainno-gmail" height="30" width="40" src="https://www.svgrepo.com/show/223047/gmail.svg" href="mailto:thainnosv@gmail.com">
+  <h3>Contacte me:</h3> 
+  <a href="https://www.instagram.com/thainno.santana/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thainno-santana/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:thainnosv@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
   ##

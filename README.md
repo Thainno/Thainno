@@ -25,7 +25,7 @@
   <a href="https://github.com/Thainno">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Thainno&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thainno&layout=compact&langs_count=7&theme=highcontrast"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=thainno&theme=highcontrast&hide_border=white"/>  
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=thainno&theme=highcontrast&hide_border=false"/>  
 </div>
   
 ##
@@ -41,9 +41,9 @@
     </td>
     <td width="425" style="border: 0";>      
       <h3>💬 Contacte me:</h3>
-      <a href="https://www.instagram.com/thainno.santana/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>     
-      <a href="https://www.linkedin.com/in/thainno-santana/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-       <a href="mailto:thainnosv@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <img align="center" alt="Thainno-instagram" height="30" width="40" src="https://www.svgrepo.com/show/111199/instagram.svg">
+      <img align="center" alt="Thainno-linkedin" height="30" width="40" src="https://www.svgrepo.com/show/157006/linkedin.svg">
+      <img align="center" alt="Thainno-gmail" height="30" width="40" src="https://www.svgrepo.com/show/223047/gmail.svg">
     </td> 
     </tr>
 </table>

@@ -42,9 +42,9 @@
   
 <div>    
    <h3>💬 Contacte me:</h3>
-   <img align="center" alt="Thainno-instagram" height="30" width="40" src="https://www.svgrepo.com/show/111199/instagram.svg">
-   <img align="center" alt="Thainno-linkedin" height="30" width="40" src="https://www.svgrepo.com/show/157006/linkedin.svg">
-   <img align="center" alt="Thainno-gmail" height="30" width="40" src="https://www.svgrepo.com/show/223047/gmail.svg">
+   <img align="center" alt="Thainno-instagram" height="30" width="40" src="https://www.svgrepo.com/show/111199/instagram.svg" href="https://www.instagram.com/thainno.santana/">
+   <img align="center" alt="Thainno-linkedin" height="30" width="40" src="https://www.svgrepo.com/show/157006/linkedin.svg" href="https://www.linkedin.com/in/thainno-santana/">
+   <img align="center" alt="Thainno-gmail" height="30" width="40" src="https://www.svgrepo.com/show/223047/gmail.svg" href="mailto:thainnosv@gmail.com">
 </div>
   
   ##

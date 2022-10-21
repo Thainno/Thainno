@@ -27,16 +27,25 @@
   
 ##
   
+<table align="right" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: 0";>     
+      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=thainno&theme=highcontrast&hide_border=false"/> 
+    </td>
+  </tr>
+</table>
+  
  <div>
    <h3>Tools and technologies:</h3>
    <img align="center" alt="Thainno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Thainno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Thainno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Thainno-GIT" height="30" width="40" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667">   
-  <img align="right" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=thainno&theme=highcontrast&hide_border=false"/>  
+   
+
  </div>
   
- ## 
+## 
   
 <div>    
   <h3>Contacte me:</h3> 
@@ -45,7 +54,7 @@
   <a href="mailto:thainnosv@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
-  ##
+##
   
 <div align="center">   
     

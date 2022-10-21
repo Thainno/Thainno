@@ -23,9 +23,9 @@
 
 <div align="center">
   <a href="https://github.com/Thainno">
-  <img height="115em" src="https://github-readme-stats.vercel.app/api?username=Thainno&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thainno&layout=compact&langs_count=7&theme=highcontrast"/>
-  <img height="115em" src="https://github-readme-streak-stats.herokuapp.com/?user=thainno&theme=highcontrast&hide_border=white"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=Thainno&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thainno&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=thainno&theme=highcontrast&hide_border=white"/>
   
 </div>
   

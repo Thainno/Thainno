@@ -8,7 +8,7 @@
     <td width="400" style="border: 0";>
       <h3>About me...</h3>
       <p>
-        -👶 Apaixonado por tecnologia desde criança, meus pais gerenciavam sua prórpima Lan house que me proporcionou o contato com a tecnologia desde muito novo;
+        -👶 Apaixonado por tecnologia desde criança;
       </p>
       <p>
         -🎓 Cursando Engenharia de Software;

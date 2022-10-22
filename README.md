@@ -29,8 +29,9 @@
   
 <table align="right" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td style="border: 0";>     
-      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=thainno&theme=highcontrast&hide_border=false"/> 
+    <td style="border: 0";>    
+      <h3>Frequency of commits</h3>
+      <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=thainno&theme=highcontrast&hide_border=false"/> 
     </td>
   </tr>
 </table>

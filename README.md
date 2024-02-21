@@ -38,12 +38,12 @@
   
  <div>
    <h3>Tools and technologies:</h3>
-   <img align="center" alt="Thainno-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Thainno-html" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Thainno-css" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Thainno-git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-   <img align="center" alt="Thainno-nodejs" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"">
-   <img align="center" alt="Thainno-json" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg""><br></br>  
+   <img title="JavaScript" align="center" alt="Thainno-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img title="HTML5" align="center" alt="Thainno-html" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
+   <img title="CSS3" align="center" alt="Thainno-css" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
+   <img title="Git" align="center" alt="Thainno-git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg">
+   <img title="Node.js" align="center" alt="Thainno-nodejs" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"">
+   <img title="Json" align="center" alt="Thainno-json" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg""><br></br>  
  </div>
     
 <div>    

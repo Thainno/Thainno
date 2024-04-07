@@ -38,11 +38,12 @@
   
  <div>
    <h3>Tools and technologies:</h3>
-   <img title="JavaScript" align="center" alt="Thainno-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img title="HTML5" align="center" alt="Thainno-html" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
    <img title="CSS3" align="center" alt="Thainno-css" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
-   <img title="Git" align="center" alt="Thainno-git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg">
-   <img title="Node.js" align="center" alt="Thainno-nodejs" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"">
+   <img title="JavaScript" align="center" alt="Thainno-js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
+   <img title="React" align="center" alt="Thainno-react" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+   <img title="Git" align="center" alt="Thainno-git" height="60" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg">
+   <img title="Node.js" align="center" alt="Thainno-nodejs" height="60" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"">
    <img title="Figma" align="center" alt="Thainno-figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg""><br></br>  
  </div>
     

@@ -21,8 +21,8 @@
 
 <div align="center">
   <a href="https://github.com/Thainno">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Thainno&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thainno&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Thainno&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thainno&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
 <table align="right" border="0" cellspacing="0" cellpadding="0">

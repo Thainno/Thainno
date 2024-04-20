@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, i'm Tainu, frontend developer! - @thainno.santana</h1>
+<h1 align="center">Hello World, i'm Tainu, frontend developer!</h1>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>

@@ -38,10 +38,11 @@
    <h3>Tools and technologies:</h3>
    <img title="HTML5" align="center" alt="Thainno-html" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
    <img title="CSS3" align="center" alt="Thainno-css" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
-   <img title="Tailwind CSS" align="center" alt="Thainno-tailwind" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
-   <img title="JavaScript" align="center" alt="Thainno-js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
+   <img title="JavaScript" align="center" alt="Thainno-js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+   <img title="TypeScript" align="center" alt="Thainno-ts" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
    <img title="React.js" align="center" alt="Thainno-react" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
    <img title="Next.js" align="center" alt="Thainno-next" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+   <img title="Tailwind CSS" align="center" alt="Thainno-tailwind" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
    <img title="Git" align="center" alt="Thainno-git" height="60" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg">
    <img title="Node.js" align="center" alt="Thainno-nodejs" height="60" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"">
    <img title="Figma" align="center" alt="Thainno-figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg""><br></br>  

@@ -11,9 +11,10 @@
 export default function AboutMe(){
   return {
     name:"Tháinno Santana",
+    nickname: "Tainu",
     age: 24,
     education: {
-      major: "Engenharia de Software",
+      major: "Software Engineering",
       university: "Unicesumar"
     },
     location: "Serra - ES Brasil"

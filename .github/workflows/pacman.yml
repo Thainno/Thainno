@@ -1,10 +1,12 @@
 name: generate pacman game
 
 on:
-  schedule: # run automatically every 24 hours
-    - cron: "0 */24 * * *"
-  workflow_dispatch: # allows to manually run the job at any time
-  push: # run on every push on the master branch
+  schedule: # run automatically every 12 hours
+    - cron: "0 */12 * * *"
+    
+  workflow_dispatch: 
+  
+  push: 
     branches:
       - main
 
@@ -21,8 +23,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

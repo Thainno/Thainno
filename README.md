@@ -1,4 +1,8 @@
-<h1 align="center">Hello World, I'm Tainu, frontend developer!</h1>
+<div align="center" >
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=780&lines=Hello+World%2C+I'm+Tainu%2C+frontend+developer!)](https://git.io/typing-svg)
+
+</div>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>

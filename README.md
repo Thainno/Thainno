@@ -1,3 +1,5 @@
+![](https://capsule-render.vercel.app/api?type=waving&height=100&color=007ACC&section=header&reversal=false&fontAlign=50&animation=twinkling)
+
 <div align="center" >
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=780&lines=Hello+World%2C+I'm+Tainu%2C+frontend+developer!)](https://git.io/typing-svg)
@@ -32,8 +34,8 @@ export default function AboutMe(){
 
 <div align="center">
   <a href="https://github.com/Thainno">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Thainno&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thainno&layout=compact&langs_count=7&theme=highcontrast"/>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Thainno&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thainno&layout=compact&langs_count=7&theme=transparent"/>
   </a>
 </div>
 
@@ -78,3 +80,4 @@ export default function AboutMe(){
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Thainno/Thainno/output/pacman-contribution-graph.svg">
 </picture>
 
+![](https://capsule-render.vercel.app/api?type=waving&height=100&color=007ACC&section=footer&reversal=false&fontAlign=50&animation=twinkling)

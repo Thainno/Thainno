@@ -1,5 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=100&color=007ACC&section=header&reversal=false&fontAlign=50&animation=twinkling)
-
 <div align="center" >
 
 [![Hello World!](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=780&lines=Hello+World%2C+I'm+Tainu%2C+frontend+developer!)](https://git.io/typing-svg)
@@ -7,10 +5,9 @@
 </div>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: 0;">
-      <img width="465" src="tainu.gif" />
-    </td>
+
+  
+  <tr>    
     <td style="border: 0; vertical-align: top; padding-left: 20px;">
 
 ```js
@@ -29,6 +26,10 @@ export default function AboutMe(){
 
 ```
   </td>
+    <td style="border: 0;">
+      <img width="465" src="tainu.gif" />
+    </td>
+
   </tr>
 </table>
 
@@ -61,14 +62,14 @@ export default function AboutMe(){
 ### 📬 Contact me:
 
 <div>
-  <a href="https://www.instagram.com/thainno.santana/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/thainno-santana/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:th&#97;innosv&#64;gm&#97;il.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/thainno.santana/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </div>
 
@@ -79,5 +80,3 @@ export default function AboutMe(){
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thainno/Thainno/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Thainno/Thainno/output/pacman-contribution-graph.svg">
 </picture>
-
-![](https://capsule-render.vercel.app/api?type=waving&height=100&color=007ACC&section=footer&reversal=false&fontAlign=50&animation=twinkling)

@@ -35,8 +35,8 @@ export default function AboutMe(){
 
 <div align="center">
   <a href="https://github.com/Thainno">
-    <img width="430px" src="https://github-readme-stats.vercel.app/api?username=Thainno&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-    <img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thainno&layout=compact&langs_count=7&theme=transparent"/>
+    <img width="420px" src="https://github-readme-stats.vercel.app/api?username=Thainno&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+    <img width="375px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thainno&layout=compact&langs_count=7&theme=transparent"/>
   </a>
 </div>
 
